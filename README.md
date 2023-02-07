@@ -167,10 +167,7 @@ The GEC is the base/default Execution Context where all JavaScript code that is 
  > After executing `all` the three functions( ) the execution stack will be empty again ! 😄
  
  ![image](https://user-images.githubusercontent.com/24325914/217258589-45531255-d42f-44e9-9dae-7e3b1a71a66d.png)
- 
- ## Phases of the JavaScript Execution Context ❓
- 
- 
+  
  
 ## Conclusion
 In conclusion, JavaScript execution context is a crucial part of understanding how JavaScript works behind the scenes. It determines the environment in which code is executed and what variables and functions are available to use.
